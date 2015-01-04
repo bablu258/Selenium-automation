@@ -1,6 +1,0 @@
-Loop for
-array - storing muliple values in one variables.
-initalisation 
-numbers
-multiplication divion
-addition subtraction 
